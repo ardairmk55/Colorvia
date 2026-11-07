@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Colorvia kullanım akışı / Colorvia workflow</title>
+  <desc id="desc">Başlangıç rengi seçme, renk uyumunu belirleme, paleti düzenleme ve dışa aktarma adımları.</desc>
+  <rect width="1200" height="290" rx="28" fill="#151612"/>
+  <rect x="1" y="1" width="1198" height="288" rx="27" stroke="#34362F"/>
+  <text x="44" y="48" fill="#C9ED61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.4">ÜÇ ADIMDA / IN THREE STEPS</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(44 78)">
+      <rect width="326" height="164" rx="19" fill="#1C1E19" stroke="#373A31"/>
+      <circle cx="34" cy="37" r="18" fill="#C9ED61"/><text x="34" y="41" text-anchor="middle" fill="#1A210A" font-size="11" font-weight="800">01</text>
+      <circle cx="274" cy="38" r="14" fill="#C9ED61"/><circle cx="274" cy="38" r="6" fill="#171914"/>
+      <text x="24" y="91" fill="#F5F3ED" font-size="18" font-weight="700">Ana rengini seç</text>
+      <text x="24" y="117" fill="#A7A99F" font-size="13">Choose your starting color</text>
+      <text x="24" y="145" fill="#797C72" font-size="11">HEX kodu veya renk seçici · HEX or color picker</text>
+    </g>
+    <path d="M382 160h31m-9-8 9 8-9 8" stroke="#C9ED61" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(437 78)">
+      <rect width="326" height="164" rx="19" fill="#1C1E19" stroke="#373A31"/>
+      <circle cx="34" cy="37" r="18" fill="#C9ED61"/><text x="34" y="41" text-anchor="middle" fill="#1A210A" font-size="11" font-weight="800">02</text>
+      <g transform="translate(237 23)"><rect width="15" height="30" rx="6" fill="#C9ED61"/><rect x="19" width="15" height="30" rx="6" fill="#93B987"/><rect x="38" width="15" height="30" rx="6" fill="#4F7970"/><rect x="57" width="15" height="30" rx="6" fill="#456A77"/></g>
+      <text x="24" y="91" fill="#F5F3ED" font-size="18" font-weight="700">Uyumu belirle</text>
+      <text x="24" y="117" fill="#A7A99F" font-size="13">Choose a color harmony</text>
+      <text x="24" y="145" fill="#797C72" font-size="11">Komşu · tamamlayıcı · üçlü · tek renk</text>
+    </g>
+    <path d="M775 160h31m-9-8 9 8-9 8" stroke="#C9ED61" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(830 78)">
+      <rect width="326" height="164" rx="19" fill="#1C1E19" stroke="#373A31"/>
+      <circle cx="34" cy="37" r="18" fill="#C9ED61"/><text x="34" y="41" text-anchor="middle" fill="#1A210A" font-size="11" font-weight="800">03</text>
+      <path d="M260 27h38v26h-38z" stroke="#C9ED61" stroke-width="2"/><path d="M270 40h18m-9-8v16" stroke="#C9ED61" stroke-width="2" stroke-linecap="round"/>
+      <text x="24" y="91" fill="#F5F3ED" font-size="18" font-weight="700">Düzenle ve kaydet</text>
+      <text x="24" y="117" fill="#A7A99F" font-size="13">Refine and save your palette</text>
+      <text x="24" y="145" fill="#797C72" font-size="11">Kilitle · kopyala · dışa aktar · Lock · copy · export</text>
+    </g>
+  </g>
+</svg>

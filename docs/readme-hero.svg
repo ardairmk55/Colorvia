@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Colorvia — Renk Stüdyosu</title>
+  <desc id="desc">Colorvia'nın yerel çalışan renk paleti stüdyosunu ve beş renkli palet önizlemesini gösteren kapak görseli.</desc>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="28" x2="1380" y2="540" gradientUnits="userSpaceOnUse"><stop stop-color="#191B17"/><stop offset="1" stop-color="#10110F"/></linearGradient>
+    <linearGradient id="glow" x1="790" y1="45" x2="1300" y2="485" gradientUnits="userSpaceOnUse"><stop stop-color="#C9ED61" stop-opacity=".18"/><stop offset="1" stop-color="#C9ED61" stop-opacity="0"/></linearGradient>
+    <linearGradient id="spectrum" x1="870" y1="412" x2="1320" y2="412" gradientUnits="userSpaceOnUse"><stop stop-color="#C9ED61"/><stop offset=".28" stop-color="#93B987"/><stop offset=".55" stop-color="#4F7970"/><stop offset=".78" stop-color="#456A77"/><stop offset="1" stop-color="#C7B78C"/></linearGradient>
+    <filter id="shadow" x="770" y="104" width="616" height="390" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="1440" height="560" rx="32" fill="url(#bg)"/>
+  <circle cx="1080" cy="280" r="270" fill="url(#glow)"/>
+  <path d="M0 445.5H1440" stroke="#34362F"/>
+  <g transform="translate(76 62)">
+    <circle cx="25" cy="25" r="24" fill="#C9ED61"/>
+    <path d="M25 1a24 24 0 0 0-24 24h24V1Z" fill="#F0EBD9"/>
+    <path d="M1 25a24 24 0 0 0 24 24V25H1Z" fill="#89A936"/>
+    <circle cx="25" cy="25" r="10" fill="#151612"/>
+    <text x="65" y="25" fill="#F5F3ED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750" letter-spacing="-1.4">colorvia<tspan fill="#C9ED61">.</tspan></text>
+    <text x="66" y="48" fill="#A7A99F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="3">COLOR STUDIO</text>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="78" y="193" fill="#C9ED61" font-size="13" font-weight="700" letter-spacing="3">YEREL · ÇEVRİMDIŞI · HESAPSIZ</text>
+    <text x="74" y="280" fill="#F5F3ED" font-size="68" font-weight="720" letter-spacing="-4">Renklerinle anlat.</text>
+    <text x="80" y="326" fill="#A7A99F" font-size="19">Bir renk seç. Uyumlu paletini oluştur.</text>
+    <text x="80" y="355" fill="#A7A99F" font-size="19">Renklerini düzenle, kaydet ve tasarımında kullan.</text>
+    <text x="80" y="405" fill="#85887D" font-size="12" font-weight="650" letter-spacing="1.4">CHOOSE · CREATE · REFINE</text>
+  </g>
+  <ellipse cx="1080" cy="309" rx="265" ry="155" fill="#000" opacity=".32" filter="url(#shadow)"/>
+  <g>
+    <rect x="814" y="112" width="548" height="318" rx="27" fill="#1A1C18" stroke="#3A3D34"/>
+    <text x="846" y="151" fill="#A7A99F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.6">COLORVIA PALETTE STUDIO</text>
+    <circle cx="1324" cy="148" r="4" fill="#C9ED61"/>
+    <text x="846" y="185" fill="#F5F3ED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650">A balanced five-color palette</text>
+    <g transform="translate(846 210)">
+      <rect width="91" height="126" rx="13" fill="#C9ED61"/><rect x="99" width="91" height="126" rx="13" fill="#93B987"/><rect x="198" width="91" height="126" rx="13" fill="#4F7970"/><rect x="297" width="91" height="126" rx="13" fill="#456A77"/><rect x="396" width="91" height="126" rx="13" fill="#C7B78C"/>
+      <text x="13" y="108" fill="#17200D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">BASE</text>
+      <text x="112" y="108" fill="#17200D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">SUPPORT</text>
+      <text x="211" y="108" fill="#F5F3ED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">ACCENT</text>
+      <text x="310" y="108" fill="#F5F3ED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">HARMONY</text>
+      <text x="409" y="108" fill="#24251F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700">NEUTRAL</text>
+    </g>
+    <rect x="846" y="357" width="487" height="9" rx="4.5" fill="url(#spectrum)"/>
+    <text x="846" y="394" fill="#A7A99F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="650" letter-spacing="1.4">HARMONY PREVIEW</text>
+    <text x="1271" y="394" fill="#A7A99F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="650" letter-spacing="1.4">HEX · RGB · HSL</text>
+  </g>
+  <text x="78" y="505" fill="#74776D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing=".4">React · TypeScript · Vite · Tailwind CSS · PWA</text>
+  <text x="1362" y="505" text-anchor="end" fill="#74776D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">colorvia</text>
+</svg>
