@@ -91,6 +91,8 @@ GitHub Actions bu kontrolleri `main` dalına gönderimlerde ve pull request’le
 ### Proje yapısı
 
 ```text
+README.md                      # Türkçe / English project guide
+LICENSE                        # MIT License
 src/
 ├── App.tsx                     # Sayfa akışı ve arayüz
 ├── i18n/copy.ts                # Türkçe ve İngilizce metinler
@@ -182,6 +184,8 @@ GitHub Actions runs these checks on pushes and pull requests targeting `main`. I
 ### Project structure
 
 ```text
+README.md                      # Türkçe / English project guide
+LICENSE                        # MIT License
 src/
 ├── App.tsx                     # App flow and UI
 ├── i18n/copy.ts                # Turkish and English interface copy
@@ -201,3 +205,23 @@ GitHub Actions validates the code but does not deploy the site. GitHub Pages pro
 <div align="center">
   Made for curious color makers · Renklerle üretenler için
 </div>
+
+---
+
+## Lisans / License
+
+### Türkçe
+
+Colorvia, **MIT Lisansı** altında yayımlanır. Lisans; yazılımı ve bu depodaki ilgili materyalleri kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve satma izni verir. Bu izinler, lisans ve telif hakkı bildiriminin yazılımın veya önemli bölümlerinin tüm kopyalarına eklenmesi koşuluna bağlıdır.
+
+MIT Lisansı yazılımı **“olduğu gibi”** sunar; açık veya zımni hiçbir garanti vermez. Yazarlar ve telif hakkı sahipleri, yazılımın kullanımından doğabilecek talepler, zararlar veya diğer yükümlülüklerden sorumlu tutulamaz. Tam koşullar için depodaki [`LICENSE`](LICENSE) dosyasını incele.
+
+**Telif hakkı © 2026 Arda Irmak.** MIT Lisansı, Colorvia adının, logosunun veya marka unsurlarının ticari marka kullanım izni olarak yorumlanmaz.
+
+### English
+
+Colorvia is released under the **MIT License**. It permits use, copying, modification, merging, publication, distribution, sublicensing, and sale of the software and associated materials, provided that the copyright notice and license text are included in all copies or substantial portions.
+
+The MIT License provides the software **“as is,”** without warranty of any kind, express or implied. Authors and copyright holders are not liable for claims, damages, or other liabilities arising from the software or its use. Read the [`LICENSE`](LICENSE) file in this repository for the complete terms.
+
+**Copyright © 2026 Arda Irmak.** The MIT License does not grant permission to use the Colorvia name, logo, or brand assets as trademarks.
